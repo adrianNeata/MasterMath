@@ -1,0 +1,11 @@
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\bin\Release\GetStartedPerformance 3.5.exe.config
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\bin\Release\GetStartedPerformance 3.5.exe
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\bin\Release\GetStartedPerformance 3.5.pdb
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\bin\Release\C5.dll
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\bin\Release\System.Threading.Tasks.NET35.dll
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\bin\Release\C5.xml
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\obj\Release\GetStartedPerformance 3.5.csprojAssemblyReference.cache
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\obj\Release\GetStartedPerformance 3.5.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\obj\Release\GetStartedPerformance 3.5.csproj.CopyComplete
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\obj\Release\GetStartedPerformance 3.5.exe
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 3.5\obj\Release\GetStartedPerformance 3.5.pdb

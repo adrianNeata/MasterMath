@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vostro\\source\\repos\\GetStartedPerformance\\GetStartedPerformance Core 2.0\\GetStartedPerformance Core 2.0.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vostro\\source\\repos\\GetStartedPerformance\\GetStartedPerformance Core 2.0\\GetStartedPerformance Core 2.0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vostro\\source\\repos\\GetStartedPerformance\\GetStartedPerformance Core 2.0\\GetStartedPerformance Core 2.0.csproj",
+        "projectName": "GetStartedPerformance Core 2.0",
+        "projectPath": "C:\\Users\\Vostro\\source\\repos\\GetStartedPerformance\\GetStartedPerformance Core 2.0\\GetStartedPerformance Core 2.0.csproj",
+        "packagesPath": "C:\\Users\\Vostro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vostro\\source\\repos\\GetStartedPerformance\\GetStartedPerformance Core 2.0\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vostro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.24.60.67:4444/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

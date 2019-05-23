@@ -1,0 +1,7 @@
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 4.5\bin\Release\GetStartedPerformance 4.5.exe.config
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 4.5\bin\Release\GetStartedPerformance 4.5.exe
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 4.5\bin\Release\GetStartedPerformance 4.5.pdb
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 4.5\obj\Release\GetStartedPerformance 4.5.csprojAssemblyReference.cache
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 4.5\obj\Release\GetStartedPerformance 4.5.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 4.5\obj\Release\GetStartedPerformance 4.5.exe
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance 4.5\obj\Release\GetStartedPerformance 4.5.pdb

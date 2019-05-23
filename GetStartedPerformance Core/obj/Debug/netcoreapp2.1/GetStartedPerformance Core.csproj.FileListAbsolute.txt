@@ -1,0 +1,11 @@
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\bin\Debug\netcoreapp2.1\GetStartedPerformance Core.deps.json
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\bin\Debug\netcoreapp2.1\GetStartedPerformance Core.runtimeconfig.json
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\bin\Debug\netcoreapp2.1\GetStartedPerformance Core.runtimeconfig.dev.json
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\bin\Debug\netcoreapp2.1\GetStartedPerformance Core.dll
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\bin\Debug\netcoreapp2.1\GetStartedPerformance Core.pdb
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\obj\Debug\netcoreapp2.1\GetStartedPerformance Core.csprojAssemblyReference.cache
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\obj\Debug\netcoreapp2.1\GetStartedPerformance Core.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\obj\Debug\netcoreapp2.1\GetStartedPerformance Core.AssemblyInfoInputs.cache
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\obj\Debug\netcoreapp2.1\GetStartedPerformance Core.AssemblyInfo.cs
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\obj\Debug\netcoreapp2.1\GetStartedPerformance Core.dll
+C:\Users\Vostro\source\repos\GetStartedPerformance\GetStartedPerformance Core\obj\Debug\netcoreapp2.1\GetStartedPerformance Core.pdb
